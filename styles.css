@@ -56,7 +56,7 @@ body{
 .list li a{
 	text-decoration: none;
 }
-a:hover{
+.list li:hover{
 	color: blue;
 
 }
