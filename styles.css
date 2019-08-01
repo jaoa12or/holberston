@@ -63,6 +63,15 @@ body{
 .list li a{
 	text-decoration: none;
 }
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	cursor: pointer;
+	color: #696969;
+}
 .list li:hover{
 	cursor: pointer;
 	color: #696969;
@@ -77,4 +86,9 @@ body{
 
 .content{
 	color:#696969;
+}
+
+footer{
+	padding: 2rem;
+	color: #696969;
 }
