@@ -52,6 +52,13 @@ body{
 	text-decoration: none;
 	color: white;
 }
+
+.list li a{
+	text-decoration: none;
+}
+.list li a:hover{
+	color: blue;
+}
 .menu{
 	width: 100%;
 	position: absolute;
