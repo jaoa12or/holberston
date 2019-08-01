@@ -41,3 +41,13 @@ body{
 .inline{
 	display: flex;
 }
+
+.list{
+	display: flex;
+}
+
+.list li{
+	margin: 1rem;
+	text-decoration: none;
+	color: white;
+}
