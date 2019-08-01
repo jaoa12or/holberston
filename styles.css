@@ -50,6 +50,7 @@ body{
 .list{
 	display: flex;
 	list-style: none;
+	margin-left: 30rem;
 }
 
 .list li{
@@ -71,7 +72,7 @@ body{
 	width: 100%;
 	position: absolute;
 	background-color: rgba(0,0,0,0.6);
-	padding-left: 30rem;
+	
 }
 
 .content{
