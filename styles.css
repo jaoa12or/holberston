@@ -55,7 +55,7 @@ body{
 .list{
 	display: flex;
 	list-style: none;
-	margin-left: 30rem;
+	margin-left: 25rem;
 }
 
 .list li{
