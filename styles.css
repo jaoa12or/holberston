@@ -7,6 +7,10 @@
 }
 
 .info{
-	width: 25%;
+	width: 24%;
 	display: inline-block;
+}
+
+.img{
+	max-width: 100%;
 }
