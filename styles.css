@@ -59,12 +59,12 @@ body{
 }
 .list li:hover{
 	cursor: pointer;
-	color: blue;
+	color: #696969;
 
 }
 .menu{
 	width: 100%;
 	position: absolute;
 	background-color: rgba(0,0,0,0.6);
-	padding-left: 32rem;
+	padding-left: 30rem;
 }
