@@ -57,6 +57,7 @@ body{
 	text-decoration: none;
 }
 .list li:hover{
+	cursor: pointer;
 	color: blue;
 
 }
