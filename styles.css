@@ -4,6 +4,10 @@ body{
 	font-family: 'Montserrat', sans-serif;
 }
 
+.h1{
+	font-size: 3rem;
+}
+
 .container{
 	padding: 3rem;
 }
