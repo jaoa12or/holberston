@@ -1,0 +1,12 @@
+.container{
+	padding: 3rem;
+}
+
+.title{
+	width: 100%;
+}
+
+.info{
+	width: 25%;
+	display: inline-block;
+}
