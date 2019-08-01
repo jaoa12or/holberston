@@ -7,8 +7,9 @@ body{
 #banner{
 	background-image: url("img/banner.jpg");
 	background-position: center;
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
+	height: 400px;
 }
 
 .h1{
