@@ -53,5 +53,7 @@ body{
 	color: white;
 }
 .menu{
+	width: 100%;
 	position: absolute;
+	background-color: rgba(0,0,0,0.6);
 }
